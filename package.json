@@ -1,7 +1,7 @@
 {
-  "name": "Queen-MD",
+  "name": "𝓕𝓸𝔁𝓿𝓹𝓷𝓑𝓸𝓽𝔃",
   "version": "1.0.0",
-  "description": "Multi device wa bot.",
+  "description": "𝔉𝔬𝔵𝔳𝔭𝔫𝔅𝔬𝔱 𝔴𝔥𝔞𝔱𝔰𝔞𝔭𝔭 𝔅𝔬𝔱.",
   "main": "index.js",
   "type": "commonjs",
   "scripts": {
@@ -18,7 +18,7 @@
     "bot-md",
     "multi-device"
   ],
-  "author": "DarkWinzo",
+  "author": "𝕶𝖆𝖛𝖎(𝕱𝖔𝖝𝖛𝖕𝖓 𝖔𝖜𝖓𝖊𝖗)",
   "license": "MIT",
   "dependencies": {
         "@adiwajshing/baileys" : "^4.4.0",
